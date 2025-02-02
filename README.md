@@ -30,9 +30,9 @@ pnpm i
 pnpm start
 ```
 
-    2.	The program will prompt you to enter your local IP address (e.g., 127.0.0.1 for localhost or your local network IP like 192.168.1.10).
-    3.	Next, you will be asked to provide a range of ports you want to scan (e.g., 1-3000).
-    4.	The script will then attempt to connect to each port in the given range and display whether the port is open or closed.
+2. The program will prompt you to enter your local IP address (e.g., 127.0.0.1 for localhost or your local network IP like 192.168.1.10).
+3. Next, you will be asked to provide a range of ports you want to scan (e.g., 1-3000).
+4. The script will then attempt to connect to each port in the given range and display whether the port is open or closed.
 
 Example:
 
