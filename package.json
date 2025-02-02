@@ -2,14 +2,18 @@
   "name": "port-scanner",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Node.js port scanner that checks if ports are open or closed on a given IP address.",
   "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node --watch src/index.ts"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "port-scanner",
+    "nodejs",
+    "network"
+  ],
+  "author": "Estarlin R",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.0.0"
