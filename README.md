@@ -7,7 +7,7 @@ This is a simple Node.js port scanner that allows you to scan a range of ports o
 1. **Clone or download this repository** to your local machine.
 
 ```bash
-git clone https://github.com/estarlincito/emmmmmmmm.git
+git clone https://github.com/estarlincito/port-scanner.git
 ```
 
 2. Navigate to the project directory.
